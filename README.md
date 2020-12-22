@@ -22,4 +22,3 @@ DZKJ PhoneRepair Tools 1.0.0.38 Setup  Update: 13:03 2020/12/22
 
 * FaceBook: [https://www.facebook.com/DZKJTOOL/](https://www.facebook.com/DZKJTOOL/)
 
-
