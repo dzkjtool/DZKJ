@@ -11,7 +11,7 @@ DZKJ PhoneRepair Tools 1.0.0.39 Setup  Update: 10:30 2021/1/1
 
 ### Download :
 
-* Download now: [https://github.com/dzkjtool/DZKJ/releases/download/1.0.0.39/DZKJ-V1.0.0.39.exe](https://github.com/dzkjtool/DZKJ/releases/download/1.0.0.39/DZKJ-V1.0.0.39.exe)
+* Download now: [https://github.com/dzkjtool/DZKJ/releases/download/1.0.0.40/DZKJ-V1.0.0.40.exe](https://github.com/dzkjtool/DZKJ/releases/download/1.0.0.40/DZKJ-V1.0.0.40.exe)
 
 ### Website:
 
