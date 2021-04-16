@@ -5,7 +5,7 @@ DZKJ Schematics & PCB Layout
 
 DZKJ PhoneRepair Tools 1.0.0.42 Setup  Update: 13:00 2021/04/15
 
-![](http://www.dzkj16888.com/img/github.png)
+![](http://www.dzkj16888.com/img/github42.png)
 
 
 
