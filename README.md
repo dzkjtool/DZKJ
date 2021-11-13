@@ -3,7 +3,7 @@ DZKJ Schematics & PCB Layout
 - [x] Support Apple, Huawei, Samsung, VIVO, OPPO, Xiaomi, etc. And keep updating.
 - [x] Download Register for free 7-day trial
 
-DZKJ PhoneRepair Tools 1.0.0.47 Setup  Update: 10:36 2021/10/2
+DZKJ PhoneRepair Tools 1.0.0.48 Setup  Update: 18:36 2021/11/12
 
 ![](http://www.dzkj16888.com/img/github44.png)
 
@@ -11,7 +11,7 @@ DZKJ PhoneRepair Tools 1.0.0.47 Setup  Update: 10:36 2021/10/2
 
 ### Download :
 
-* Download now: [https://github.com/dzkjtool/DZKJ/releases/download/1.0.0.47/DZKJ-1.0.0.47.exe](https://github.com/dzkjtool/DZKJ/releases/download/1.0.0.47/DZKJ-1.0.0.47.exe)
+* Download now: [https://github.com/dzkjtool/DZKJ/releases/download/1.0.0.48/DZKJ-1.0.0.48.exe](https://github.com/dzkjtool/DZKJ/releases/download/1.0.0.48/DZKJ-1.0.0.48.exe)
 
 ### Website:
 
