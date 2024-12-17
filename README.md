@@ -2,6 +2,7 @@
 DZKJ Schematics & PCB Layout
 - [x] Support Apple, Huawei, Samsung, VIVO, OPPO, Xiaomi, etc. And keep updating.
 - [x] Download Register for free 7-day trial
+- [x] DKZJ All PDFs are free and open Now
 
 DZKJ Schematics 1.0.0.55 Setup  Update: 9:30 2024/12/10
 
