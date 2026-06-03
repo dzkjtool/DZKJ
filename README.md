@@ -4,8 +4,8 @@ DZKJ Schematics & PCB Layout
 - [x] Support Laptops: Apple, Lenovo, Dell, HP, Samsung, Acer, Asus, Sony, Toshiba, Gigabyte, and more. 
 - [x] Support Drones: DJI Air, ‌Mavic, Dell, ‌Mini, ‌Matrice, and Other.
 - [x] Support Game Consoles: Nintendo, ‌SONY PlayStation, Steam Deck, XBOX, ‌and Other. 
-- [x] Download Register for free 3-day trial
 
+Download Register for free 3-day trial
 DZKJ Schematics Setup  Update: 9:30 2026/6/1
 
 ![](https://www.dzkj16888.com/img/dzkj_mob.png)
