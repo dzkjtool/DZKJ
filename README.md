@@ -1,18 +1,20 @@
 # DZKJ Schematics
 DZKJ Schematics & PCB Layout
-- [x] Support Apple, Huawei, Samsung, VIVO, OPPO, Xiaomi, etc. And keep updating.
-- [x] Download Register for free 7-day trial
-- [x] DKZJ All PDFs are free and open Now
+- [x] Support Smartphones: iPhone, Samsung, Xiaomi, OPPO, VIVO, Honor, Realme, Huawei, OnePlus, Google Pixel, Motorola, Sony, ZTE, Nokia, Lenovo, Tecno, Infinix, Itel and more 
+- [x] Support Laptops: Apple, Lenovo, Dell, HP, Samsung, Acer, Asus, Sony, Toshiba, Gigabyte, and more. 
+- [x] Support Drones: DJI Air, ‌Mavic, Dell, ‌Mini, ‌Matrice, and Other.
+- [x] Support Game Consoles: Nintendo, ‌SONY PlayStation, Steam Deck, XBOX, ‌and Other. 
+- [x] Download Register for free 3-day trial
 
-DZKJ Schematics 1.0.0.55 Setup  Update: 9:30 2024/12/10
+DZKJ Schematics Setup  Update: 9:30 2026/6/1
 
-![](http://www.dzkj16888.com/img/github.png)
+![](https://www.dzkj16888.com/img/dzkj_mob.png)
 
 
 
 ### Download :
 
-* Download now: [https://github.com/dzkjtool/DZKJ/releases/download/1.0.0.55/DZKJ-1.0.0.55.exe](https://github.com/dzkjtool/DZKJ/releases/download/1.0.0.55/DZKJ-1.0.0.55.exe)
+* Download now: [https://github.com/dzkjtool/DZKJ/releases/download/2026/DZKJSetup.exe](https://github.com/dzkjtool/DZKJ/releases/download/2026/DZKJSetup.exe)
 
 ### Website:
 
@@ -22,4 +24,5 @@ DZKJ Schematics 1.0.0.55 Setup  Update: 9:30 2024/12/10
 ### FaceBook
 
 * FaceBook: [https://www.facebook.com/DZKJTOOL/](https://www.facebook.com/DZKJTOOL/)
+
 
